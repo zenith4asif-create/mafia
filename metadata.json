@@ -1,0 +1,6 @@
+{
+  "name": "O2 Browser Lite",
+  "description": "Ultra-fast, lightweight, and minimal Android web browser with instant search, URL navigation, and clean controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
